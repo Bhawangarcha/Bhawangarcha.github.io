@@ -1,5 +1,24 @@
 # Bhawangarcha.github.io #
 
+My name is Bhawandeep Kaur. I am from Ahmedgarh. I got 90.4% in my senior secondary examination 
+
+|Name|Class|Roll No.|
+|:---|:----|:-------|
+|Bhawandeep Kaur|12th|2024343272|
+
+**Markshet**
+|Subject|Th|INA|Pr|Total|Result|
+|:------|:-|:--|:-|:----|:-----|
+|General English|68|20|XXX|88|P|
+|General Punjabi|70|20|XXX|90|P|
+|Physics|56|5|25|86|P|
+|Chemistry|63|5|25|93|A+|
+|Math|75|20|XXX|95|A+|
+
+**Result**:- 452 
+
+**Overall Grade**:- A+
+
 **My excel certificate**
 
 ![Screenshot_20240721_152225_Samsung Internet](https://github.com/user-attachments/assets/ec529432-b5f7-42ad-9f94-5e77afe041f7)

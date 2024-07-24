@@ -19,6 +19,16 @@ My name is Bhawandeep Kaur. I am from Ahmedgarh. I got 90.4% in my senior second
 
 **Overall Grade**:- A+
 
+
+
+# Blog Post #
+
+View My Blog
+
+
 **My excel certificate**
 
 ![Screenshot_20240721_152225_Samsung Internet](https://github.com/user-attachments/assets/ec529432-b5f7-42ad-9f94-5e77afe041f7)
+
+#### My experience in Excel through this online course is very nice. In this course I learn so many things and gain 
+knowledge 

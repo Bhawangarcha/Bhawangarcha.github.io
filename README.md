@@ -30,7 +30,6 @@ View My Blog
 
 ![Screenshot_20240721_152225_Samsung Internet](https://github.com/user-attachments/assets/ec529432-b5f7-42ad-9f94-5e77afe041f7)
 
-#### My experience in Excel through this online course is very nice. In this course I learn so many things and gain 
-knowledge. Excel is a spreadsheet program. Microsoft Excel enables users to format, organise and calculate data in a spreadsheet ####
+My experience in Excel through this online course is very nice. In this course I learn so many things and gain knowledge. Excel is a spreadsheet program. Microsoft Excel enables users to format, organise and calculate data in a spreadsheet ####
 
 **Some functions every Excel should know**
